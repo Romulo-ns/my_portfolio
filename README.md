@@ -2,6 +2,8 @@
 
 Bem-vindo ao repositório do meu portfólio pessoal online! Este site foi desenvolvido com o propósito de apresentar meus projetos, habilidades técnicas e oferecer um canal direto de contato profissional.
 
+🟢 **Site ao vivo:** [https://romulo-ns.github.io/my_portfolio/](https://romulo-ns.github.io/my_portfolio/)
+
 ## 🛠️ Tecnologias Utilizadas
 
 Este portfólio foi construído com foco em leveza e performance, sem necessidade de back-end:
@@ -42,14 +44,6 @@ Por ser um site 100% estático, visualizar este projeto não exige instalações
 1. Faça o clone deste repositório usando `git clone https://github.com/Romulo-ns/my_portfolio.git`.
 2. Acesse a pasta do portfólio.
 3. Clique duas vezes no arquivo `index.html`. O arquivo será aberto diretamente pelo navegador (Edge/Chrome/Firefox).
-
-## 🛜 Hospedagem (Opcional - GitHub Pages)
-
-O próximo passo é ativar via **GitHub Pages** totalmente de graça:
-1. Vá até as "Settings" deste repositório no GitHub.
-2. Na barra lateral à esquerda, clique em "Pages".
-3. Em "Source" (Source/Branch), selecione `main` e "Save".
-4. O GitHub hospedará o arquivo ao vivo!
 
 ---
 *Criado por [Romulo Santos](https://github.com/Romulo-ns).*
